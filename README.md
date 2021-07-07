@@ -1,4 +1,4 @@
-# Este arquivo contém a modelagem atráves do modelo GARCH para o ativo PETR4
+##  Utilizando GARCH(1,1) para o ativo PETR4.
 
 Esta análise foi baseada atráves do artigo  'A GARCH Tutorial with R' do Marcelo Perlin *et al.* (2021).
 O modelo utilizado foi o GARCH(1,1).
